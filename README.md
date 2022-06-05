@@ -3,7 +3,7 @@ Status display for home automation
 
 
 ## Power consumption
-According to the manufacturer, each led could consume 0,3W (± 0,01%) per LED. For my first example statusDisplay with 3x10 LEDs that would mean up to 9W (so 1,8A @ 5V).
+According to the manufacturer, each led could consume 0,3W (± 0,01%). For my first example statusDisplay with 3x10 LEDs that would mean up to 9W (so 1,8A @ 5V).
 The first tests with the statusDisplay (LEDs behind a white paper that is used for labeling) showed that a brightness of 20% is more than enough and the Wemos D1 mini was able to drive all 30 LEDs without troubel or excesive heat. To be on the sure side I've connected a digital multimeter between the +5V pin of the Wemos D1 mini and the LED strips.
 The following currencies were meassured:
 
