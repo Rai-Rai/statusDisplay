@@ -25,7 +25,8 @@ The following currencies were meassured:
 *Notes about the values:*  
 - *\*) There is no difference in power consumption for 0-10%, the same current is drawn if the LEDs are turned to "off"*  
 - *All values >200mA were meassured with a resolution of 10mA*
-- Brightness for 80%-100% was set only for 1-2 seconds to prevent damage to the powersupply
+- *Brightness for 80%-100% was set only for 1-2 seconds to prevent damage to the powersupply*
+- *30 LEDs were powered at once*
 
 I'm not sure why only 0,83A instead of the expected 1,8A were drawn when switching to 100%. But the brightness is definitifely too much, it's nearly impossible to read the labels near the leds due to the brightness (sunglasses?)
 
