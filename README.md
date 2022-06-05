@@ -1,4 +1,4 @@
-# statusDisplay
+# Home automation status display
 Status display for home automation
 
 
